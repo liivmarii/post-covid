@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/post-covid/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/post-covid/static/js/main.4210223f.chunk.js",
+    "main.js.map": "/post-covid/static/js/main.4210223f.chunk.js.map",
+    "runtime-main.js": "/post-covid/static/js/runtime-main.867b6af3.js",
+    "runtime-main.js.map": "/post-covid/static/js/runtime-main.867b6af3.js.map",
+    "static/js/2.b191eca1.chunk.js": "/post-covid/static/js/2.b191eca1.chunk.js",
+    "static/js/2.b191eca1.chunk.js.map": "/post-covid/static/js/2.b191eca1.chunk.js.map",
+    "static/js/3.e344910b.chunk.js": "/post-covid/static/js/3.e344910b.chunk.js",
+    "static/js/3.e344910b.chunk.js.map": "/post-covid/static/js/3.e344910b.chunk.js.map",
+    "index.html": "/post-covid/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/post-covid/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b191eca1.chunk.js.LICENSE.txt": "/post-covid/static/js/2.b191eca1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/post-covid/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.867b6af3.js",
+    "static/js/2.b191eca1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4210223f.chunk.js"
+  ]
+}
