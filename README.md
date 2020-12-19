@@ -1,10 +1,10 @@
 # PostCovid
+
 ## Covid-19 vaccine data visualization
 
 This project contains a tiny web app that visualizes data connected to the spread of the Covid-19 virus in UK, in parallel to the roll out of the Covid-19 vaccine.
 
 [Click here to see a live version of the app](https://liivmarii.github.io/post-covid/), currently in development.
-
 
 ## Available Scripts
 
